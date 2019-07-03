@@ -1,5 +1,5 @@
-#Login Form
-Login Form merupakan .... Di activity ini ditampilkan form Login ...... Berikut ini screen shot tampilan aplikasi yang diharapkan.
+# Login Form
+Login Form merupakan tampilan yang dijalankan setelah welcome activity, didalam form login berisi sebuah inputan username dan passworm serta button login. Berikut ini screen shot tampilan aplikasi yang diharapkan.
 ![Sign In](images/Sign%20In.png)
 
 ##Buat activity WelcomeBack
